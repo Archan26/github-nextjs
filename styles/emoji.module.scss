@@ -1,0 +1,9 @@
+$primary-color: #194214;
+.emojiPage{
+  color: $primary-color;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
